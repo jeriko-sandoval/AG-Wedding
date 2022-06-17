@@ -76,19 +76,19 @@ Created by : mutationthemes
 
 @keyframes spinner-color {
     0%, 100% {
-        stroke: #40BF8B;
+        stroke: #335d1d;
     }
     20% {
-        stroke: #40BF8B;
+        stroke: #335d1d;
     }
     40% {
-        stroke: #40BF8B;
+        stroke: #335d1d;
     }
     60% {
-        stroke: #40BF8B;
+        stroke: #335d1d;
     }
     80% {
-        stroke: #40BF8B;
+        stroke: #335d1d;
     }
 
 
@@ -136,7 +136,7 @@ Created by : mutationthemes
 }
 
 .bg-card-box {
-  background-color: #40BF8B !important;
+  background-color: #335d1d !important;
 }
 .min-vh-80 {
     padding-top: 10rem;
@@ -173,7 +173,7 @@ Created by : mutationthemes
 }
 
 .link {
-  color: #40BF8B !important;
+  color: #335d1d !important;
 }
 .navbar-expand-lg .navbar-nav .nav-link{
     color: #717171;
@@ -186,7 +186,7 @@ Created by : mutationthemes
 }
 
 .text-custom {
-  color: #40BF8B !important;
+  color: #335d1d !important;
 }
 
 /* End hero Section*/
@@ -380,7 +380,7 @@ ul.instafeed-list li a{
 /*Miscellaneous*/
 
 ::-moz-selection {
-    background: #40BF8B;
+    background: #335d1d;
     color: #ffffff;
 }
  .gradient-overlay:before {
@@ -473,7 +473,7 @@ a,::before
     vertical-align: middle;
     text-align: center;
     color: #fff;
-    background-color: #40BF8B;
+    background-color: #335d1d;
     width: 2.35rem;
     height: 2.35rem;
     font-size: 0.75rem;
@@ -495,7 +495,7 @@ h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a, .h1 > a, .h2 > a, .h3 > a, .h4 >
     color: #000000;
 }
 h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover, .h1 > a:hover, .h2 > a:hover, .h3 > a:hover, .h4 > a:hover, .h5 > a:hover, .h6 > a:hover {
-    color: #40BF8B;
+    color: #335d1d;
 }
 .z-index-2{
   z-index: 2;
@@ -531,7 +531,7 @@ h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hov
     background: rgba(255, 255, 255, 0.1) !important;
 }
 .bg-primary-svg {
-  fill: #40BF8B;
+  fill: #335d1d;
 }
 .bg-secondary-svg {
   fill: #fff9f5;
@@ -546,11 +546,11 @@ h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hov
   opacity: 0.8;
 }
 .hover-arrow:hover span {
-  color: #40BF8B;
+  color: #335d1d;
     transform: translate3d(5px, 0, 0);
 }
 .hover-arrow span {
-  color: #40BF8B;
+  color: #335d1d;
     display: inline-block;
     margin-left: .375rem;
     transition: transform 0.2s ease;
@@ -563,7 +563,7 @@ h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hov
   font-family: 'Playfair Display', serif;
 }
 .card.bg-primary{
-  border-color: #40BF8B;
+  border-color: #335d1d;
 }
 .o-hidden{
   overflow: hidden;
@@ -769,7 +769,7 @@ ul.instafeed-list li {
     display: none
 }
 .header.switched-header .logo-dark{
-  color: #40BF8B !important;
+  color: #335d1d !important;
   display: block;
   font-size: 1rem;
   font-weight: 600;
@@ -803,7 +803,7 @@ ul.instafeed-list li {
 
 @media (max-width: 1028px) {
   .logo-dark{
-    color: #40BF8B !important;
+    color: #335d1d !important;
    display: block;
    font-size: 1rem;
    font-weight: 600;
